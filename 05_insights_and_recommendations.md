@@ -46,7 +46,7 @@ more robust validation design.
   - If backlog is severe → favor higher precision
   - If safety risk is high → favor higher recall for claims
 
-### 4.2 Product/Policy recommendation: definition alignment
+### 4.2 Policy recommendation: definition alignment
 - Establish a clear operational definition of “claim” vs “opinion” with policy teams.
 - Create a consistent annotation guideline to reduce label noise and improve generalization.
 
