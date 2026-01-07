@@ -36,7 +36,7 @@ more robust validation design.
 
 ---
 
-## 4. Recommendations (How TikTok can use this)
+## 4. Recommendations
 ### 4.1 Operational recommendation: triage strategy
 - Use model score to prioritize review queues:
   - High probability **claim** → higher review priority
